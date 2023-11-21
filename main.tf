@@ -1,6 +1,6 @@
 #<block> <parameters>{
  #   key1= value1
-  #  key2= value3
+  #  key2= value2
 #
 #    }
 provider "aws" {
