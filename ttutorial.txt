@@ -4,3 +4,13 @@
 
 
 section/Day 7 Input variable 
+Explain with ariableto edit the content assigned without changing in written codes(in repository)
+Shows to create a separate files for variable(To isolate)
+Isolation does not impact the output of codes in main.tf
+
+Section 8 moreabout variables
+if you are using CI tools like jenkins we cannot provide promit/option to provide values
+we need to run in terraform plan  --var "variable = data"
+
+
+Terraform plan --var "custom_content=this is non interactive way to pass variables"
