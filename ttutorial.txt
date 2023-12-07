@@ -14,3 +14,10 @@ we need to run in terraform plan  --var "variable = data"
 
 
 Terraform plan --var "custom_content=this is non interactive way to pass variables"
+
+day 9 : How to create an EC2 instance using Terraform | Creating EC2 Instance using Terraform
+Install terraform and aws cli and iser in IAM
+https://medium.com/@gaurishirkande11111/how-to-create-an-aws-ec2-instance-using-terraform-on-windows-47cafe2da69f
+create IAM username  terraform 
+create access key   "AKIAVVOLJFY3TXNJHFEN"
+ Secret access key    "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"
